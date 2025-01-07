@@ -1,5 +1,16 @@
+# Dependency directories
 node_modules/
+
+# Environment variables
 .env
+
+# Ignore itself and other ignore files
 .npmignore
 .gitignore
+
+# Source and test directories
 src/
+__tests__/
+
+# Documentation
+README.md
